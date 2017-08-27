@@ -1,5 +1,6 @@
-# Calendar Render Excercise 
-This is a simple excercise for creating a calendar render function in javascript.
+# Calendar Render Exercise
+
+This is a simple exercise for creating a calendar render function in javascript.
 
 ## Usage
 
